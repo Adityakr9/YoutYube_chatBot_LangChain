@@ -22,20 +22,6 @@ It uses **Retrieval-Augmented Generation (RAG)** to provide accurate answers bas
 - FAISS (Vector Database)  
 - YouTube Transcript API  
 - Streamlit (optional UI)  
-
----
-
-## 📂 Project Structure
-
-project/
--│── app.py
--│── requirements.txt
--│── .env
--│── utils/
--│── data/
--│── README.md
----
-
 ---
 
 ## ⚙️ Installation
