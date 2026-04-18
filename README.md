@@ -26,28 +26,15 @@ It uses **Retrieval-Augmented Generation (RAG)** to provide accurate answers bas
 ---
 
 ## 📂 Project Structure
+
 project/
-│── app.py
-│── requirements.txt
-│── .env
-│── utils/
-│── data/
-│── README.md
+-│── app.py
+-│── requirements.txt
+-│── .env
+-│── utils/
+-│── data/
+-│── README.md
 ---
-
-### ✅ Short Version (if needed)
-
-```markdown id="bd1a2c"
-app.py
-requirements.txt
-.env
-data/
-utils/
-models/
-notebooks/
-tests/
-assets/
-README.md
 
 ---
 
