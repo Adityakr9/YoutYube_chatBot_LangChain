@@ -26,3 +26,25 @@ It uses **Retrieval-Augmented Generation (RAG)** to provide accurate answers bas
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+python -m venv env
+source env/bin/activate   # Mac/Linux
+env\Scripts\activate      # Windows
+
+pip install -r requirements.txt
+
+OPENAI_API_KEY=your_api_key
+HUGGINGFACEHUB_API_TOKEN=your_token
+
+python app.py
+
